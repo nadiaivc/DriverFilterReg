@@ -1,6 +1,6 @@
 Based on https://github.com/microsoft/Windows-driver-samples/tree/master/general/registry/regfltr
       
-#### The configuration will be stored in the XML format, Config file set in registry.(change "//" on "/" and del Space):
+#### The configuration will be stored in the XML format, Config file set in registry.(change "//" to "/" and del Space):
 > < exe><name_program(name of the program for which we are setting permissions)*> <Lev* (access level)> *1* (value) <//Lev> ... (other programs) 
 ... *<//exe> < key> <name_key* (name of the key (section) , for which we set the rights)> *< Lev> <4> <//Lev> ........ <//key>*
 ### parsing configuration is pretty bad - better change
