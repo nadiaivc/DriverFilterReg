@@ -1,3 +1,5 @@
+I have a article about it on Habr https://habr.com/ru/post/485606/
+
 Based on https://github.com/microsoft/Windows-driver-samples/tree/master/general/registry/regfltr
       
 #### The configuration will be stored in the XML format, Config file set in registry.(change "//" to "/" and del Space):
