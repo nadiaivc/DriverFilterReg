@@ -1,4 +1,4 @@
-I have a article about it on Habr https://habr.com/ru/post/485606/
+I have an article about it on Habr https://habr.com/ru/post/485606/
 
 Based on https://github.com/microsoft/Windows-driver-samples/tree/master/general/registry/regfltr
       
