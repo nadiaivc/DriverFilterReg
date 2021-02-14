@@ -1,3 +1,5 @@
+#### Be careful! It's a really bad code. I had to write it in a week for my study task. So I didn't think a lot. Now I don't want to fix smth, because I don't care honestly
+
 I have an article about it on Habr https://habr.com/ru/post/485606/
 
 Based on https://github.com/microsoft/Windows-driver-samples/tree/master/general/registry/regfltr
